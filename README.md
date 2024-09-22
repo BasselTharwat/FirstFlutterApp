@@ -1,4 +1,4 @@
-# first_flutter_app
+# First Flutter App
 
 I followed the tutorial provided by google developers (Check it out here: [flutter codelab](https://codelabs.developers.google.com/codelabs/flutter-codelab-first#0))
 
